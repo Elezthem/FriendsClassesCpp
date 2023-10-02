@@ -1,0 +1,2 @@
+# FriendsClassesCpp
+C++ Classes friends
